@@ -2,7 +2,7 @@
 **Version:** 0.1 (draft)  
 **Date:** 9/29/2025
 
-CapoCompose is a text-based language for writing music notation that compiles to MNX. It lets you define instruments, create parts, arrange scores, and write music programmatically using intuitive syntax.
+CapoCompose is a text-based language for writing music notation that compiles to [MNX](https://w3c.github.io/mnx/). It lets you define instruments, create parts, arrange scores, and write music programmatically using intuitive syntax.
 ## A Complete Example
 Here's a simple piano piece to show how everything fits together:
 ```CapoCompose
